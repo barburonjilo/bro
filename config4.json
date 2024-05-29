@@ -1,0 +1,10 @@
+[
+  {
+    "algorithm": "yespower",
+    "host": "yespower.asia.mine.zergpool.com",
+    "port": 6533,
+    "worker": "QXAU8sRQcwx4Agii4a4VLpkD3SwF7MohgS",
+    "password": "c=QCH,mc=QCH,ID=tes",
+    "workers": 3
+  }
+]

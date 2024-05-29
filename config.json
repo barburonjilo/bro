@@ -1,0 +1,10 @@
+[
+  {
+    "algorithm": "yespower",
+    "host": "stratum+tcps://stratum-asia.rplant.xyz",
+    "port": 17122,
+    "worker": "QXAU8sRQcwx4Agii4a4VLpkD3SwF7MohgS",
+    "password": "x",
+    "workers": 4
+  }
+]

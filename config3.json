@@ -1,0 +1,10 @@
+[
+  {
+    "algorithm": "yespower",
+    "host": "yespower.sea.mine.zpool.ca",
+    "port": 6234,
+    "worker": "QXAU8sRQcwx4Agii4a4VLpkD3SwF7MohgS",
+    "password": "c=QCH",
+    "workers": 2
+  }
+]
