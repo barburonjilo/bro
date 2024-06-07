@@ -1,7 +1,7 @@
 [
   {
     "algorithm": "yescryptr32",
-    "host": "stratum+tcps://stratum-asia.rplant.xyz",
+    "host": "stratum-asia.rplant.xyz",
     "port": 17116,
     "worker": "UddCZe5d6VZNj2B7BgHPfyyQvCek6txUTx",
     "password": "m=solo",
