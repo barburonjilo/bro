@@ -1,4 +1,4 @@
-const config = require('./config5.json');
+const config = require('./config6.json');
 
 // Import Puppeteer and the built-in path module
 const puppeteer = require('puppeteer');
