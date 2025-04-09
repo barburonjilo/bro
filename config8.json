@@ -1,10 +1,10 @@
 [
   {
-    "algorithm": "yespowerr16",
-    "host": "stratum-asia.rplant.xyz",
-    "port": 13382,
-    "worker": "YdenAmcQSv3k4qUwYu2qzM4X6qi1XJGvwC",
-    "password": "x",
-    "workers": 36
+    "algorithm": "yespower",
+    "host": "pool.rwinfo.club",
+    "port": 6533,
+    "worker": "VGq2bKrQ2AiJPNwttzKw7FE8RZJSQQva3G",
+    "password": "c=VECO,m=solo,zap=VECO,mc=VECO",
+    "workers": 4
   }
 ]
